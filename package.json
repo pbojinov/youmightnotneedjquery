@@ -1,24 +1,16 @@
 {
-  "name": "youmightnotneedjquery",
+  "name": "ymnnj",
   "version": "0.1.0",
-  "description": "You might not need jQuery",
+  "description": "You might not need jQuery, the library",
   "repository": {
     "type": "git",
-    "url": "git://github.com/HubSpot/youmightnotneedjquery.git"
+    "url": "git://github.com:pbojinov/youmightnotneedjquery.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HubSpot/youmightnotneedjquery/issues"
+    "url": "https://github.com/pbojinov/youmightnotneedjquery/issues"
   },
   "devDependencies": {
-    "readfiletree": "0.0.1",
-    "gulp-util": "~2.2.9",
-    "gulp": "~3.3.0",
-    "gulp-coffee": "~1.2.5",
-    "gulp-jade": "~0.3.0",
-    "gulp-stylus": "0.0.7",
-    "coffee-script": "~1.6.3",
-    "nib": "~1.0.2"
   }
 }
