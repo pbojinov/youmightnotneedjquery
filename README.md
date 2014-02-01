@@ -15,3 +15,7 @@ An API wrapper for the [YouMightNotNeedjQuery](http://YouMightNotNeedjQuery.com)
 ## License
 
 MIT
+
+---
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pbojinov/youmightnotneedjquery/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
