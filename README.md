@@ -1,12 +1,15 @@
 # YouMightNotNeedjQuery - The Library
 
-> A small library to substitute all of the jQuery you might not need.
+> A small library to substitute all of the jQuery you might not need. THIS IS STILL A WORK IN PROGRESS
 
-## NOTE THIS IS STILL A WORK IN PROGRESS
+## Library Source
+
+[https://github.com/pbojinov/youmightnotneedjquery/blob/gh-pages/src/ymnnj.js](https://github.com/pbojinov/youmightnotneedjquery/blob/gh-pages/src/ymnnj.js)
 
 ## About
 
 An API wrapper for the [YouMightNotNeedjQuery](http://YouMightNotNeedjQuery.com) examples
+
 
 ## Maintainer
 
